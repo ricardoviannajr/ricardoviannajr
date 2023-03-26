@@ -3,7 +3,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoviannajr&count_private=true&show_icons=true&theme=yeblu&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoviannajr&layout=compact&show_icons=true&theme=yeblu&locale=pt-br"/>
 </div>
-<<p align="justify">Eu sou um desenvolvedor em constante aprendizado, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou me dedicando ao desenvolvimento web fullstack e estudando linguagens como JavaScript e Python.
+<p align="justify">Eu sou um desenvolvedor em constante aprendizado, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou me dedicando ao desenvolvimento web fullstack e estudando linguagens como JavaScript e Python.
 Além disso, adoro contribuir para projetos open source e participar de comunidades de desenvolvimento. Acredito que o compartilhamento de conhecimento é fundamental para o crescimento da comunidade e busco fazer minha parte.
 Sinta-se à vontade para explorar meus repositórios e, se quiser entrar em contato, estou sempre disponível para trocar ideias e colaborar em projetos interessantes!</>
 <div style="display: inline_block"><br>
