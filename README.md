@@ -1,8 +1,8 @@
 # Olá, eu sou o Ricardo Vianna 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardoviannajr&count_private=true&show_icons=true&theme=yeblu&locale=pt-br" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoviannajr&layout=compact&show_icons=true&theme=yeblu&locale=pt-br" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardoviannajr&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoviannajr&layout=compact&theme=yeblu&hide_border=false" height="180em" alt="Top Languages" />
 </div>
 
 ---
