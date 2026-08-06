@@ -1,5 +1,4 @@
-﻿# Contexto e Caderno do Projeto
-
-- **Nome do Caderno:** ricardoviannajr github
-- **RepositÃ³rio GitHub:** https://github.com/ricardoviannajr/ricardoviannajr
-- **Regra de Consulta RAG:** Antes de implementaÃ§Ãµes estruturais, consulte o caderno no NotebookLM via MCP.
+# Memória do Projeto no NotebookLM
+- Caderno: ricardoviannajr github
+- Coleção: Projetos Antigravity
+- URL: https://notebook.google.com/notebook/793a76f8-1172-40fa-a398-ad21490d54ec
